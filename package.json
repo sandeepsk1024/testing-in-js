@@ -1,0 +1,14 @@
+{
+  "name": "testing-in-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sandeepsk1024/testing-in-js.git",
+  "author": "Sandeep Khandewale <sandeepsk1024@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  },
+  "scripts": {
+    "test:lib": "mocha test/lib"
+  }
+}
